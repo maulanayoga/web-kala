@@ -911,7 +911,7 @@ nav:hover {
     background-color: rgba(0, 0, 0, 1); /* Warna latar belakang transparan saat dihover */
 }
 
-.container {
+.nav-container {
     display: flex;
     justify-content: center; /* Menu akan berada di bagian kanan */
     align-items: center; /* Menengahkan navbar secara vertikal */
